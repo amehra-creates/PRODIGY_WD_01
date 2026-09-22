@@ -44,4 +44,4 @@ A modern and professional landing page with:
 ## 🚀 How to run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/PRODIGY_WD_01.git
+   git clone https://github.com/amehra-creates/PRODIGY_WD_01.git
